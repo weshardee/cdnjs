@@ -1,6 +1,6 @@
 {
   "name": "boxsizing.htc",
-  "filename": "boxsizing.min.htc"s,
+  "filename": "boxsizing.min.htc",
   "version": "0.0.0",
   "description": "A CSS box-sizing: border-box polyfill for IE 6/7",
   "homepage": "https://github.com/Schepp/box-sizing-polyfill",
